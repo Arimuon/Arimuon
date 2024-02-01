@@ -1,5 +1,5 @@
-![](https://raw.githubusercontent.com/Arimuon/GitHubStats/master/generated/overview.svg#gh-dark-mode-only) 
-![](https://raw.githubusercontent.com/Arimuon/GitHubStats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/Arimuon/GitHubStats/blob/master/generated/overview.svg#gh-dark-mode-only) 
+![](https://github.com/Arimuon/GitHubStats/blob/master/generated/languages.svg#gh-dark-mode-only)
 
 #### Connections
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1148923243097497600)
