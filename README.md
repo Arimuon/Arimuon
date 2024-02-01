@@ -1,6 +1,3 @@
-![](https://github.com/Arimuon/GitHubStats/blob/master/generated/overview.svg#gh-dark-mode-only) 
-![](https://github.com/Arimuon/GitHubStats/blob/master/generated/languages.svg#gh-dark-mode-only)
-
 #### Connections
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1148923243097497600)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arimuonn@gmail.com)
@@ -15,3 +12,5 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
+![](https://github.com/Arimuon/GitHubStats/blob/master/generated/overview.svg#gh-dark-mode-only) 
+![](https://github.com/Arimuon/GitHubStats/blob/master/generated/languages.svg#gh-dark-mode-only)
