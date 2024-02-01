@@ -1,6 +1,5 @@
 ### Connections
-[![Discord](https://img.shields.io/badge/-Discord-8e9fda?style=flat&labelColor=7289DA&logo=discord&logoColor=white)](https://discord.com/users/1148923243097497600)
-[![WakaTime](https://wakatime.com/badge.svg)](https://wakatime.com/@Arimuon)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1148923243097497600)
 [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:arimuonn@gmail.com)
 
 #### Languages
