@@ -15,4 +15,4 @@
 
 ![](https://github.com/Arimuon/GitHubStats/blob/master/generated/overview.svg#gh-dark-mode-only) 
 ![](https://github.com/Arimuon/GitHubStats/blob/master/generated/languages.svg#gh-dark-mode-only)
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
