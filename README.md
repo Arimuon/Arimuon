@@ -4,7 +4,7 @@
 
 #### Specialities
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=2a567c&logo=python&logoColor=white)](https://github.com/search?q=user%3Aarimuon%20language%3APython%20&type=code)
-[![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
+[![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/QWhisperAR)
 [![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://github.com/search?q=user%3AArimuon%20language%3ABatchfile%20&type=code)
 
 #### Preferences
