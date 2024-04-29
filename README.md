@@ -5,6 +5,7 @@
 
 ### Learning
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=2a567c&logo=python&logoColor=white)](https://github.com/search?q=user%3Aarimuon%20language%3APython%20&type=code)
+![Discord Badge](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 [![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://github.com/search?q=user%3AArimuon%20language%3ABatchfile%20&type=code)
 
 ### Working With
